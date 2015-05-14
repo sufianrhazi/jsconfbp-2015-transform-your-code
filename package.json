@@ -1,0 +1,16 @@
+{
+  "name": "jsconfbp-talk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "transform.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "estraverse": "~4.1.0",
+    "esprima": "~2.2.0",
+    "escodegen": "~1.6.1"
+  }
+}
